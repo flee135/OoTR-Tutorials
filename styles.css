@@ -266,13 +266,22 @@ body {
 
 .article pre code { background: transparent; padding: 0; }
 
+.article img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 6px;
+}
+
 .article iframe {
+  display: block;
   width: 100%;
   aspect-ratio: 16 / 9;
   height: auto;
   border: 0;
   border-radius: 6px;
-  margin: 0 0 1rem;
+  margin: 0 auto 1rem;
 }
 
 .article blockquote {
