@@ -169,7 +169,7 @@ async function showArticle(key) {
       a.target = '_blank';
       a.rel = 'noopener noreferrer';
     });
-    document.title = keyToTitle[key] + ' — OoTR Academy';
+    document.title = keyToTitle[key] + ' — OoTR Tutorials';
     renderArticleNav(key);
   } catch (err) {
     articleEl.innerHTML =
