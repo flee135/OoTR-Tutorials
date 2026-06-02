@@ -1,0 +1,45 @@
+site_name: OoTR Tutorials
+site_description: Ocarina of Time Randomizer tutorials.
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+# Sidebar order and grouping.
+nav:
+  - Home: index.md
+  - Beginner:
+      - Setting Up: beginner/setting-up.md
+      - First Seed: beginner/first-seed.md
+
+# About is shown as a header link (top right), not in the sidebar — see
+# overrides/partials/header.html. Listed here so --strict doesn't warn it's
+# missing from the nav.
+not_in_nav: |
+  about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra_javascript:
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css

@@ -1,6 +1,6 @@
 # Setting Up
 
-If you haven't already, I recommend joining the [OoTR Discord](https://discord.com/invite/ootrandomizer). The #resources channel has all the links you need to get started, and you can ask questions in the channels under `Support & Discussion` if you need help with anything, whether it's about setup or about how to complete a seed.
+If you haven't already, I recommend joining the [OoTR Discord](https://discord.com/invite/ootrandomizer). The `#resources` channel has all the links you need to get started, and you can ask questions in the channels under `Support & Discussion` if you need help with anything, whether it's about setup or about how to complete a seed.
 
 The [OoTR Wiki](https://wiki.ootrandomizer.com/index.php?title=Main_Page) also has a lot of good info. The following sections will point to the parts of the wiki that are most helpful for getting started, but if you want, it's also a good idea to browse any other pages on the wiki that you find relevant or interesting.
 
@@ -14,7 +14,7 @@ The controller you use is up to preference. You see all kinds of controllers at 
 
 For controller mappings, here's the mapping that you use if you're on VC.
 
-![Gamecube mapping](images/beginner/Gamecube_Controls.png)
+![Gamecube mapping](../images/beginner/Gamecube_Controls.png)
 
 On emulator, you can either copy this mapping or tweak it to your liking. The advantage to copying this mapping is that if you ever decide to switch to VC in the future, it will make the transition much easier.
 
@@ -26,4 +26,4 @@ Most runners use trackers to help keep stay organized when playing a seed. Item 
 
 My recommendation for beginners is the [Hashfrog Tracker](https://hashfrog-tracker.com/). If you enable check tracking, it's both an item tracker and check tracker in one, and as you fill in the items that you've found, it will update with what locations in the game are available for you to complete. As long as you are marking each check that you do and updating the tracker with items that you find, then the tracker can always tell you what you are able to do. This is a useful learning tool as it will show you when there are checks that are possible with your loadout that you didn't know were possible.
 
-Probably the most popular alternative is the Gossip Stone Tracker HD, which is similar to Hashfrog but without the check tracking. Another option at the top level is Soli's tracker, and while it's probably the most powerful tracker available, there is a learning curve for using it and is not the most friendly for beginners.
+Probably the most popular alternative is the [Gossip Stone Tracker HD](https://github.com/HapaxL/GSTHD#readme), which is similar to Hashfrog but without the check tracking. Another option at the top level is [Soli's tracker](https://soilflux.github.io/tracker/), and while it's probably the most powerful tracker available, there is a learning curve for using it and is not friendly for beginners.
