@@ -21,10 +21,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history so git-revision-date-localized can read each page's
+          # last commit date (default shallow clone hides it).
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin
       - run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3
         with:

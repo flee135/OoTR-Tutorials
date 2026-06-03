@@ -29,6 +29,14 @@ a[target="_blank"]:not(:has(img))::after {
   opacity: 0.7;
 }
 
+/* "Last updated" date shown at the top of each article
+   (see overrides/main.html). Reuses Material's .md-source-file styling so it
+   matches the footer; we only flip the spacing to sit above the content. */
+.last-updated.md-source-file {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
 /* Site title at the top of the left sidebar */
 .md-nav--primary > .md-nav__title {
   font-size: 1.25rem;

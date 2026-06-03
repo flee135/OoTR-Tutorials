@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+<!-- Render the git "last updated" date at the top of the article content,
+     just above the page heading. Mirrors Material's footer markup (the
+     render_updated macro in partials/source-file.html) so it looks identical:
+     a clock icon + the date, styled by .md-source-file. The date comes from
+     the git-revision-date-localized plugin. We inline the markup rather than
+     importing that partial, since importing executes its body (which assumes
+     `page` exists and breaks on the 404 page). -->
+{% block content %}
+  {% if page and page.meta and page.meta.git_revision_date_localized %}
+    <aside class="md-source-file last-updated">
+      <span class="md-source-file__fact">
+        <span class="md-icon" title="{{ lang.t('source.file.date.updated') }}">
+          {% include ".icons/material/clock-edit-outline.svg" %}
+        </span>
+        {{ page.meta.git_revision_date_localized }}
+      </span>
+    </aside>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

@@ -18,6 +18,11 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+
 # Sidebar order and grouping.
 nav:
   - Home: index.md
