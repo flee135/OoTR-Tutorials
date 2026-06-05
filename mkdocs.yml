@@ -31,6 +31,11 @@ nav:
       - First Seed: beginner/first-seed.md
       - Completing The Seed: beginner/completing-seed.md
       - Next Steps: beginner/next-steps.md
+  - Intermediate:
+      - Intro: intermediate/intro.md
+      - Execution: intermediate/execution.md
+      - Routing: intermediate/routing.md
+      - Hints: intermediate/hints.md
 
 # About is shown as a header link (top right), not in the sidebar — see
 # overrides/partials/header.html. Listed here so --strict doesn't warn it's
