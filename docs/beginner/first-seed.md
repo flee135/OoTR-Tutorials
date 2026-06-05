@@ -8,7 +8,7 @@ The rest of this article is primarily about the settings that I recommend for yo
 
 I recommend starting with a variation of the Easy Mode preset. On the ROM options tab, under Settings Preset, select Easy Mode and click Load. Also make sure at the top that "Create Spoiler Log" is checked on. This generates a file that you can use to look up where all the items are, in case you get stuck and need to look up where certain items are.
 
-> If you're using v9.1, the settings string for the following settings is `BSAWDNCAX2TB2XCHGABSL62ANAEAAAAAJAAAASAA8AAYAAABAKCBBALAAYLAHF8WJNFAAAAAABAEZAAA2A7KDCJA8HAENS6AFB25KHSASABUTNJ`
+> If you're using v9.1, the settings string for the following settings is `BSAWDNCAX2TB2XCHGABSL62ANAEAAAAAJAAAASAA8AAYAAABAKCBBALAAYLAHCWWSVCRLAYU2LAAAAAAUCAJQBAASB4VGESA6RAJ2A3BLCSZVQABABCED3SA`
 >
 >You can copy this into the Settings String box at the bottom and hit Import to import all the settings in automatically instead of manually changing every setting yourself. If you do, you can skip to [Generate the Seed](#generate-the-seed).
 
@@ -17,8 +17,14 @@ I recommend starting with a variation of the Easy Mode preset. On the ROM option
 - In the Shuffle column, under "Shuffle Adult Trade Sequence Items", uncheck everything except Claim Check.
 - In the Shuffle column, enable the Shuffle Kokiri Sword option.
 
+## (optional) Detailed Logic Tab
+Aiming in first person can feel awkward at first, so if you don't want to get caught up on minigames that require aiming, you can disable these.
+
+- In Exclude Location, look for GF HBA 1000 Points, Market Shooting Gallery Reward, and/or Kak Shooting Gallery Reward.
+- Click on these options and then click Add to move them into the right column. These are checks that will be disabled. You can still do them if you want, but they will be guaranteed to not contain anything useful.
+
 ## Starting Inventory Tab
-- Under Starting Equipment, click Deku Shield and click Add. This puts it in the right column, which is the list of items you’ll start with.
+- Under Starting Equipment, click Deku Shield and Hylian Shield and click Add. This puts these in the right column, which is the list of items you’ll start with.
 - Under Starting Items, click and add Ocarina and Zelda's Letter. You'll notice there are two ocarinas, but only one needs to be added.
 
 Note in the bottom right under Other that you will also start with consumables, i.e. sticks and nuts, as well as a full wallet.
@@ -30,7 +36,7 @@ Note in the bottom right under Other that you will also start with consumables, 
 - In Gameplay Changes, check Blue Fire Arrows. This replaces Ice Arrows, a generally useless item, with Blue Fire Arrows, which is an alternative way to melt red ice. This has recently been a popular option to turn on for both casual play and high level play.
 
 ## Cosmetics
-- Pick your preferred Default Targeting Option.
+- Pick your preferred Default Targeting Option. If you're unsure, stick with Hold.
 - I like to uncheck Item Model Colors Match Cosmetics so that it’s easier to identify items that I spot in the overworld, but this is up to you.
 
 Feel free to modify the remaining cosmetics how you wish.
