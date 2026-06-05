@@ -14,9 +14,15 @@ In order to open the bridge to Ganon's Castle, you need the six medallions. Coll
 
 I recommend taking notes on what the dungeon reward layout is and referencing it as you play the seed so you can always keep in mind which dungeons are actually required. Many trackers like HashFrog or Gossip Stone Tracker have spots to do this.
 
+> **Tip:** If you've read the pedastal but forgot what the dungeons are, you can reference them by opening the pause menu and holding A or D-pad Down.
+
 ## Hints
 
 You'll find gossip stones scattered throughout the world, and talking to one will give you a hint. These may be what a particular check may have, or what locations might contain important items. It's useful to take note of these as well whenever you find new hints.
+
+If a hint says a region is **Way of the Hero**, it means that an item in that region is required to beat the seed.
+
+If a hint says a region is **Foolish**, it means there are no items in that region that are required to beat the seed, and thus all the checks there are skippable.
 
 ## Mid-Late Game
 
