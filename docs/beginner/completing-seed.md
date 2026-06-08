@@ -1,6 +1,12 @@
 # Completing the Seed
 
-Your goal in this seed is to defeat Ganon. In general, you'll need to:
+When starting out, I recommend just playing however you feel like and exploring the world at your own pace. If you want a little more guidance than that, though, this article will have some tips on how to beat the seed.
+
+If at any point you're unsure how to progress, or your tracker says you're able to do something but you're not sure how, I'd recommend reading the [Glitchless Logic](https://wiki.ootrandomizer.com/index.php?title=Logic) wiki page. This breaks the game down into different regions and common pitfalls in each one. If you still can't find what you're looking for on this page, you can ask in the `#gameplay-and-tricks` channel in the discord.
+
+---
+
+Your final goal in this seed is to defeat Ganon. We can break this down into some smaller steps:
 
 - Figure out which dungeons are required.
 - Find the items needed to complete those dungeons.
@@ -36,6 +42,24 @@ When you've found all six medallions, you can make your way to Ganon. To actuall
 
 If you have everything but light arrows, you can go straight to the Ganon fight, and he will tell you what region you can find them in to help narrow down where you need to look.
 
-## Getting Stuck
+## Tips and Tricks
 
-If you're unsure how to progress, or your tracker says you're able to do something but you're not sure how, I'd recommend reading the [Glitchless Logic](https://wiki.ootrandomizer.com/index.php?title=Logic) wiki page. This breaks the game down into different regions and common pitfalls in each one. If you still can't find what you're looking for on this page, you can ask in the `#gameplay-and-tricks` channel in the discord.
+The following are by no means necessary to complete a seed, but can make things a lot more convenient, especially when seeds take multiple hours to complete.
+
+### Movement
+
+- Rolling is faster than running. You can feel free to repeatedly tap A when you start, but it's better to time your rolls after Link stands up. Here's a video of [optimal rolls](https://www.youtube.com/watch?v=jqmqkcIwXsg). 
+- The fastest movement is actually backwalking by holding Z and down on the analog stick (1.5x faster!). The obvious downside is you can't see where you're going, so it's mostly useful for long stretches, such as crossing all of Hyrule Field.
+
+### Child Combat
+
+Since you don't start with a Kokiri Sword, you'll mostly rely on Deku Sticks to fight as child. If you find yourself running out, you can save and quit in the overworld to spawn back in Kokiri Forest, where you can purchase more sticks.
+
+A trick to help conserve sticks is **Broken Stick**. This lets Link continue holding a stick even after it breaks, and you can continue to swing it until you put it away. The universal way to get a broken stick is as follows:
+- Walk into a wall and target it. This will orient the camera so that you're looking straight at it.
+- Backflip
+- Either (a) tap your shield or (b) let go of target and then hold target again.
+- Pull out a stick
+- Press A to jumpslash
+
+When done correctly, you should hear the stick hit the wall twice, and Link will continue to hold the stick after the jumpslash. You can then continue to swing the stick as many times as you want.
