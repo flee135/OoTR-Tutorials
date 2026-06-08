@@ -1,7 +1,10 @@
 # Intermediate Tutorials
 
-Start using a tournament preset to get used to tournament hint distributions. Scrubs settings are good for easing into racing.
+You've now played a couple seeds and have seen most, if not all of the checks in the game. From here we'll look into getting faster at the game. The goal of this set of tutorials is to get comfortable enough to be able to play in casual races (though that's obviously not a requirement).
 
-Breakdown of remaining tutorials
+The intermediate tutorials go into the following:
 
-Reading in any order is ok
+- [Tournament settings](./tournament-settings.md)
+- [Hints](./hints.md)
+- [Execution](./execution.md)
+- [Routing](./routing.md)

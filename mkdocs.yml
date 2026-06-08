@@ -33,6 +33,7 @@ nav:
       - Next Steps: beginner/next-steps.md
   - Intermediate:
       - Intro: intermediate/intro.md
+      - Tournament Settings: intermediate/tournament-settings.md
       - Execution: intermediate/execution.md
       - Routing: intermediate/routing.md
       - Hints: intermediate/hints.md

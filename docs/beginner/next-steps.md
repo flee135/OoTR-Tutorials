@@ -22,7 +22,7 @@ When you have a couple of seeds under your belt, there are two routes you can go
 
 ## Getting Faster
 
-Maybe you just want to get faster to be able to finish seeds in one sitting, or you want to look into doing some casual races with other runners. It's time to start diving into the intermediate tutorials.
+Maybe you just want to get faster to be able to finish seeds in one sitting, or you want to look into doing some casual races with other runners. It's time to start diving into the [intermediate tutorials](../intermediate/intro.md).
 
 ## More Settings
 
