@@ -46,6 +46,10 @@ If you have everything but light arrows, you can go straight to the Ganon fight,
 
 The following are by no means necessary to complete a seed, but can make things a lot more convenient, especially when seeds take multiple hours to complete.
 
+This video covers the basics:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnAiWbjtnSg?si=TUxYyQo0dk-48tzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Movement
 
 - Rolling is faster than running. You can feel free to repeatedly tap A when you start, but it's better to time your rolls after Link stands up. Here's a video of [optimal rolls](https://www.youtube.com/watch?v=jqmqkcIwXsg). 
@@ -56,10 +60,13 @@ The following are by no means necessary to complete a seed, but can make things 
 Since you don't start with a Kokiri Sword, you'll mostly rely on Deku Sticks to fight as child. If you find yourself running out, you can save and quit in the overworld to spawn back in Kokiri Forest, where you can purchase more sticks.
 
 A trick to help conserve sticks is **Broken Stick**. This lets Link continue holding a stick even after it breaks, and you can continue to swing it until you put it away. The universal way to get a broken stick is as follows:
-- Walk into a wall and target it. This will orient the camera so that you're looking straight at it.
+
+- Walk into a wall and target it. This will snap Link to look straight at the wall.
 - Backflip
 - Either (a) tap your shield or (b) let go of target and then hold target again.
 - Pull out a stick
 - Press A to jumpslash
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/avFYl6eZdrE?si=x_7uwP1hPHRVbU_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 When done correctly, you should hear the stick hit the wall twice, and Link will continue to hold the stick after the jumpslash. You can then continue to swing the stick as many times as you want.

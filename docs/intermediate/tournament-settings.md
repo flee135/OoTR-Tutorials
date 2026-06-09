@@ -20,11 +20,13 @@ Under the Detailed Logic tab in the generator, there are a lot of new tricks ena
 
 Hover over each one to see what they entail. Many are self explanatory, like having fewer thing require Goron or Zora tunics, or not needing lens of truth for many things. We'll go over the less obvious ones here.
 
-- Man on roof without hookshot
-- DC Spike trap room without hovers
-- Hammer rusted switches and boulders through walls
+- Man on Roof without Hookshot
+- DC Spike Trap Room without Hovers
+- Hammer Rusted Switches and Boulders Through Walls
 - Windmill PoH as Adult with Nothing
 - Crater’s Bean PoH with Hovers
 - Forest Temple Courtyard Vines with Hookshot
 - Pass through one way collisions (Impa cow, DMT Gate)
 - Deku Tree Basement w/o Slingshot
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD2eFhhibJs?si=MVlg_NX_PfSCLWtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
