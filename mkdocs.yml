@@ -36,7 +36,6 @@ nav:
       - Tournament Settings: intermediate/tournament-settings.md
       - Execution: intermediate/execution.md
       - Routing: intermediate/routing.md
-      - Hints: intermediate/hints.md
 
 # About is shown as a header link (top right), not in the sidebar — see
 # overrides/partials/header.html. Listed here so --strict doesn't warn it's

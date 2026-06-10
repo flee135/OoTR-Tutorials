@@ -5,6 +5,8 @@ You've now played a couple seeds and have seen most, if not all of the checks in
 The intermediate tutorials go into the following:
 
 - [Tournament settings](./tournament-settings.md)
-- [Hints](./hints.md)
 - [Execution](./execution.md)
 - [Routing](./routing.md)
+- Racing
+
+I recommend going in order, but execution and routing are interchangeable, and you might end up referencing back and forth between these anyways.

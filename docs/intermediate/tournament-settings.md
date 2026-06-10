@@ -18,7 +18,9 @@ Early on, you can treat path hints as just locations that you should prioritize.
 
 Under the Detailed Logic tab in the generator, there are a lot of new tricks enabled. These are things the game expects you to be able to do, and places items accordingly assuming you can do each one.
 
-Hover over each one to see what they entail. Many are self explanatory, like having fewer thing require Goron or Zora tunics, or not needing lens of truth for many things. We'll go over the less obvious ones here.
+Hover over each one in the generator to see what they entail. Many are self explanatory, like having fewer thing require Goron or Zora tunics, or not needing lens of truth for many things. We'll go over the less obvious ones here.
+
+I recommend practicing these using the [practice ROM](./execution.md#practice-rom).
 
 - Man on Roof without Hookshot
 - DC Spike Trap Room without Hovers
