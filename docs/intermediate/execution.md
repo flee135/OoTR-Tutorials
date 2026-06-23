@@ -2,7 +2,7 @@
 
 Execution is, in my opinion, where you can get the most improvement as you're learning to improve. There are always things that you are required to do in any given seed, and it's best not to bleed time where you don't have to. It also helps to learn good execution habits early on so that you end up practicing it naturally with every seed that you play.
 
-> **Note:** This section is dense with a lot of stuff to learn, and it's probably not a good idea to learn everything here before jumping into your next seed. I recommend learning a little bit at a time, mixing it in with reading [Routing](./routing.md) as well, and revisiting both pages between seeds to learn more or reinforce what you've already learned.
+>**Note:** This section is dense with a lot of stuff to learn, and it's probably not a good idea to learn everything here before jumping into your next seed. I recommend learning a little bit at a time, mixing it in with reading [Routing](./routing.md) as well, and revisiting both pages between seeds to learn more or reinforce what you've already learned.
 
 ## Practice ROM
 
@@ -24,6 +24,12 @@ The [optimization guide](https://docs.google.com/document/d/1wLRFTNduDhYeASucN_3
 - The Damage section is good to review.
 
 Feel free to read and incorporate anything else in this doc too. The doc as a whole can be overwhelming and is too much to incorporate at once, so focus only on a few things at a time, and when those become second nature, revisit the doc from time to time.
+
+## Dungeons
+
+Reference this video from atz and dotzo for how to play through every dungeon efficiently. These assume you have all the items for the dungeon and that you are collecting every check. These may not apply in seeds where you are required to dip into dungeons without having everything to clear it, but it is still worth knowing these routes to use as a baseline and modify accordingly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bosses
 
