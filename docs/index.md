@@ -15,5 +15,5 @@ You have multiple seeds under your belt and are looking to get faster. The goal 
 ### Advanced
 You've done some races and want to put up more competitive times. The goal is to improve your chances of qualifying for tournaments or moving up in league divisions.
 
-### Misc
-Collection of topics that don't really fit in any skill group. In general, these go beyond the advanced tutorials, and may serve less as tutorials and more as food for thought. Some of the topics may also be more subjective than other categories and might not match the opinions of other top runners.
+### Regions
+This section breaks up the game into its different regions and lists tricks and tips in each one. These can be browsed regardless of your skill level. In any region, the tips will be roughly ordered that they should be prioritized.

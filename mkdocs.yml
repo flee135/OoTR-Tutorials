@@ -36,6 +36,41 @@ nav:
       - Tournament Settings: intermediate/tournament-settings.md
       - Execution: intermediate/execution.md
       - Routing: intermediate/routing.md
+  - Regions:
+      - Intro: regions/intro.md
+      - Kokiri Forest: regions/kokiri-forest.md
+      - Lost Woods: regions/lost-woods.md
+      - SFM: regions/sfm.md
+      - Hyrule Field: regions/hyrule-field.md
+      - Lon Lon Ranch: regions/lon-lon.md
+      - Market: regions/market.md
+      - Hyrule Castle: regions/hyrule-castle.md
+      - Outside Ganon's: regions/ogc.md
+      - Kakariko: regions/kakariko.md
+      - Graveyard: regions/graveyard.md
+      - Trail: regions/dmt.md
+      - Crater: regions/dmc.md
+      - Goron City: regions/goron-city.md
+      - Lake Hylia: regions/lake-hylia.md
+      - Zora's River: regions/river.md
+      - Zora's Domain: regions/domain.md
+      - Zora's Fountain: regions/fountain.md
+      - Gerudo Valley: regions/valley.md
+      - Gerudo Fortress: regions/fortress.md
+      - Wasteland: regions/wasteland.md
+      - Colossus: regions/colossus.md
+      - Deku: regions/deku.md
+      - DC: regions/dc.md
+      - Jabu: regions/jabu.md
+      - Forest: regions/forest.md
+      - Fire: regions/fire.md
+      - Water: regions/water.md
+      - Shadow: regions/shadow.md
+      - Spirit: regions/spirit.md
+      - Well: regions/well.md
+      - Ice: regions/ice.md
+      - GTG: regions/gtg.md
+      - Ganon's Castle: regions/ganons.md
 
 # About is shown as a header link (top right), not in the sidebar — see
 # overrides/partials/header.html. Listed here so --strict doesn't warn it's
