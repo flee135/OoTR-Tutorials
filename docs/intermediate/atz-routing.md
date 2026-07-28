@@ -38,7 +38,9 @@ You can choose to skip the section on openers if you want. It's covered better i
 
 As you improve, you can consider just going straight to Forest from Lon Lon instead.
 
-**13:30** - 
+**13:30** - I consider logic to be quite an advanced topic, and not one you need to prioritize early on while you're still getting familiar with the game.
+
+That's not to say you should ignore it completely. When getting started, recognize what checks logically require what items. If you recognize that you've gotten something out of logic, just take a mental note of it. Make a habit of thinking "the game doesn't expect me to have X yet, and finding Y will put me back in logic." Over time, you'll get better at how to utilize that information.
 
 **23:31** - Deku drops a bit in the priority list since it now typically requires Kokiri Sword. I put it roughly on par with Bottom of the Well.
 
