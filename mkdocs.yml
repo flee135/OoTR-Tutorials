@@ -38,6 +38,18 @@ nav:
       - Routing: intermediate/routing.md
   - Regions:
       - Intro: regions/intro.md
+      - Deku Tree: regions/deku.md
+      - Dodongo's Cavern: regions/dc.md
+      - Jabu Jabu's Belly: regions/jabu.md
+      - Forest Temple: regions/forest.md
+      - Fire Temple: regions/fire.md
+      - Water Temple: regions/water.md
+      - Shadow Temple: regions/shadow.md
+      - Spirit Temple: regions/spirit.md
+      - Bottom of the Well: regions/well.md
+      - Ice Cavern: regions/ice.md
+      - GTG: regions/gtg.md
+      - Ganon's Castle: regions/ganons.md
       - Kokiri Forest: regions/kokiri-forest.md
       - Lost Woods: regions/lost-woods.md
       - SFM: regions/sfm.md
@@ -59,18 +71,6 @@ nav:
       - Gerudo Fortress: regions/fortress.md
       - Wasteland: regions/wasteland.md
       - Colossus: regions/colossus.md
-      - Deku: regions/deku.md
-      - DC: regions/dc.md
-      - Jabu: regions/jabu.md
-      - Forest: regions/forest.md
-      - Fire: regions/fire.md
-      - Water: regions/water.md
-      - Shadow: regions/shadow.md
-      - Spirit: regions/spirit.md
-      - Well: regions/well.md
-      - Ice: regions/ice.md
-      - GTG: regions/gtg.md
-      - Ganon's Castle: regions/ganons.md
 
 # About is shown as a header link (top right), not in the sidebar — see
 # overrides/partials/header.html. Listed here so --strict doesn't warn it's
