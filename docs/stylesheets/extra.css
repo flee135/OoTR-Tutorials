@@ -37,6 +37,43 @@ a[target="_blank"]:not(:has(img))::after {
   margin-bottom: 1rem;
 }
 
+/* Section breaks.
+   Plain `---` in Markdown gives Material's default hairline rule, used for
+   minor breaks within a section. For a heavier break between major sections,
+   write <hr class="section-break"> instead — attr_list can't tag an <hr>
+   (it has no text to parse), so the raw tag is the way to get the class on. */
+.md-typeset hr.section-break {
+  border: none;
+  height: 3px;
+  margin: 3em 0;
+  border-radius: 3px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--md-primary-fg-color) 15%,
+    var(--md-primary-fg-color) 85%,
+    transparent
+  );
+}
+
+/* Same break, with a centered diamond sitting on the line. */
+.md-typeset hr.section-break--ornament {
+  position: relative;
+  overflow: visible;
+}
+.md-typeset hr.section-break--ornament::after {
+  content: "◆";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0 0.6em;
+  font-size: 0.8rem;
+  line-height: 1;
+  color: var(--md-primary-fg-color);
+  background-color: var(--md-default-bg-color);  /* punches a gap in the line */
+}
+
 /* Site title at the top of the left sidebar */
 .md-nav--primary > .md-nav__title {
   font-size: 1.25rem;

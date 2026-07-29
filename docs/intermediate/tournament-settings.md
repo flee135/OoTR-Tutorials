@@ -8,9 +8,9 @@ Let's go over some differences that you find in nearly all tournament settings t
 
 Most tournaments nowadays will use path hints instead of way of the hero hints. You can think of paths as more informative WoTHs. For example, instead of a hint reading Kokiri Forest is way of the hero, it might read Kokiri Forest is path to King Dodongo. This means that there is an item in Kokiri Forest that is logically required to beat King Dodongo.
 
-If you've done a few seeds, you'll know that the only item required to beat DC is bombs (bombchus are usually not considered in logic), so you might think this hint just means that you'll find bombs in KF. It's possible, however, that you clear all of KF and you only find Ruto's Letter there. This means that Ruto's Letter must lock all of your bomb bags. If you are looking for bombs, it's a good idea to check locations that logically require Ruto's Letter, such as Zora's Fountain, Ice Cavern, or Jabu.
+If you've done a few seeds, you'll know that the only item required to beat DC is bombs (bombchus are usually not considered in logic), so you might think this hint just means that you'll find bombs in KF. It's possible, however, that you clear all of KF and you only find Ruto's Letter there. This means that Ruto's Letter is required to beat DC, and therefore must lock all of your bomb bags. If you are looking for bombs, it's a good idea to check locations that logically require Ruto's Letter, such as Zora's Fountain, Ice Cavern, or Jabu.
 
-While doing these seeds, practice tracking what your paths are, what you find in those path locations, and figuring out how they eventually resolve. This is not an easy skill, and there will be plenty of seeds where you won't be able to figure out the logic in the middle of the seed.
+While doing these seeds, practice tracking what your paths are, what you find in those path locations, and figuring out how they eventually resolve. This is not an easy skill, so don't be discouraged if you run into seeds where you can't figure out the logic in the middle of the seed.
 
 Early on, you can treat path hints as just locations that you should prioritize. As you improve at reading these path chains, though, you can read deeper into these hints and be able to narrow down where certain items can be.
 

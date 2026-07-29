@@ -34,9 +34,9 @@ You can choose to skip the section on openers if you want. It's covered better i
 
 **9:00** - Since you are given the ZL check at the start, the pre-ZL opening isn't relevant anymore, and you can skip to 10:47 to see what your options are post-ZL.
 
-**10:47** - From Lon Lon, if you don't have a good warp song or your savewarp is not in Forest, I recommend going valley (2 checks, 1 hint), lake (1 check, peek underwater, 3 hints), open grotto (1 check, 1 hint), into Forest. If you have explosives you can get two more checks plus a hint in south field. This results in a more thorough child section, gives you a lot of hints to guide you through the mid game, and prevents potential backtracking in the late game.
+**10:47** - From Lon Lon, if you don't have a good warp song or your savewarp is not in the forest area, I recommend walking out and going to valley (2 checks, 1 hint), lake (1 check, peek underwater, 3 hints, set up scarecrow song), field open grotto (1 check, 1 hint), into Kokiri Forest. If you have explosives you can get two more checks plus a hint in south field. This results in a more thorough child section, gives you a lot of hints to guide you through the mid game, and prevents potential backtracking in the late game.
 
-As you improve, you can consider just going straight to Forest from Lon Lon instead.
+As you improve, you can consider just going straight to Forest from Lon Lon instead. This defers your decision of if you want to clear valley/lake until you're closer to your mid-game.
 
 **13:30** - I consider logic to be quite an advanced topic, and not one you need to prioritize early on while you're still getting familiar with the game.
 
