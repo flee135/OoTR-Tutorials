@@ -74,6 +74,32 @@ a[target="_blank"]:not(:has(img))::after {
   background-color: var(--md-default-bg-color);  /* punches a gap in the line */
 }
 
+/* Headings.
+   color-mix keeps the rule readable in both the slate and default schemes. */
+.md-typeset h1 {
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  margin-top: 2.2em;
+  padding-bottom: 0.25em;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  border-bottom: 2px solid
+    color-mix(in srgb, var(--md-primary-fg-color) 45%, transparent);
+}
+
+/* First h2 on a page sits right under the title, so it needs less air. */
+.md-typeset h1 + h2 {
+  margin-top: 1.4em;
+}
+
+.md-typeset h3 {
+  margin-top: 1.8em;
+  font-weight: 600;
+}
+
 /* YouTube embeds. */
 .md-typeset iframe {
   display: block;
@@ -81,6 +107,15 @@ a[target="_blank"]:not(:has(img))::after {
   max-width: 100%;
   height: auto;
   aspect-ratio: 16 / 9;
+}
+
+/* Standalone images, centered to match the iframes above.
+   `![alt](src)` on its own line becomes <p><img></p>, so :only-child picks out
+   images that are the whole paragraph and leaves images used inline in a
+   sentence (badges, icons) alone. */
+.md-typeset p > img:only-child {
+  display: block;
+  margin: 1em auto;
 }
 
 /* Site title at the top of the left sidebar */

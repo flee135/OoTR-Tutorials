@@ -11,14 +11,14 @@ I recommend starting with a variation of the Easy Mode preset. On the ROM option
 > If you're using v9.1, the settings string for the following settings is `BSAWDNCAX2TB2XCHGABSL62ANAEAAAAAJAAAASAA8AAYAAABAKCBBALAAYLAHCWWSVCRLAYU2LAASAAAASWAAUMAAANS8WBBEA9DACGJQSUA67WDJAJSA3JGE`
 >
 >You can copy this into the Settings String box at the bottom and hit Import to import all the settings in automatically instead of manually changing every setting yourself. If you do, you can skip to [Generate the Seed](#generate-the-seed).
-> ![Settings String](../images/beginner/settings_string.png)
+> ![Settings String](images/settings_string.png)
 
 ## Main Rules Tab
 - In the Open column, select Closed Deku
 - In the Shuffle column, under "Shuffle Adult Trade Sequence Items", uncheck everything except Claim Check.
 - In the Shuffle column, enable the Shuffle Kokiri Sword option.
 
-![Main Rules](../images/beginner/main_rules.png)
+![Main Rules](images/main_rules.png)
 
 ## Detailed Logic Tab
 - (optional) Aiming in first person can feel awkward at first, so if you don't want to get caught up on minigames that require aiming, you can disable these.
@@ -26,7 +26,7 @@ I recommend starting with a variation of the Easy Mode preset. On the ROM option
     - Click on these options and then click Add to move them into the right column. These are checks that will be disabled. You can still do them if you want, but they will be guaranteed to not contain anything useful.
 - In Enable Tricks, click on Hidden Grottos without Stone of Agony and click Add to move it into the right column. In practice this won't affect how you play since if you need to find grottos you can reference [Grotto Locations](https://wiki.ootrandomizer.com/index.php?title=Grottos) in the Wiki, but if you are using a check tracker, it can tell you when grottos are available without having Stone of Agony.
 
-![Detailed Logic](../images/beginner/detailed_logic.png)
+![Detailed Logic](images/detailed_logic.png)
 
 ## Starting Inventory Tab
 - Under Starting Equipment, click Deku Shield and Hylian Shield and click Add to move them into the right column.
@@ -34,7 +34,7 @@ I recommend starting with a variation of the Easy Mode preset. On the ROM option
 
 Note in the bottom right under Other that you will also start with consumables, i.e. sticks and nuts, as well as a full wallet.
 
-![Starting Items](../images/beginner/starting_items.png)
+![Starting Items](images/starting_items.png)
 
 ## Other Tab
 - (optional) In Misc Hints, uncheck Dampe’s Diary, House of Skulltula 10 and 20, and Frogs Ocarina Game.
@@ -42,11 +42,12 @@ Note in the bottom right under Other that you will also start with consumables, 
 - (optional) In Minor items in Big/Gold chests, check all the options. This makes it so that you can find bombchus, shields, and capacity upgrades in big chests, and makes it so that small brown chests will never have anything particularly useful
 - In Gameplay Changes, check Blue Fire Arrows. This replaces Ice Arrows, a generally useless item, with Blue Fire Arrows, which is an alternative way to melt red ice. This has recently been a popular option to turn on for both casual play and high level play.
 
-![Other](../images/beginner/other.png)
+![Other](images/other.png)
 
 ## Cosmetics
 - Pick your preferred Default Targeting Option. If you're unsure, stick with Hold.
 - I like to uncheck Item Model Colors Match Cosmetics so that it’s easier to identify items that I spot in the overworld, but this is up to you.
+- If you want, you can turn on input viewer, which shows your controller inputs at the bottom of the screen. This also includes your analog stick values, so this can be useful for tweaking [controller sensitivity](./setting-up.md#controller-sensitivity) during your game.
 
 Feel free to modify the remaining cosmetics how you wish.
 

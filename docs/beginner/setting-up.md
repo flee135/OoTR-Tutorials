@@ -14,16 +14,34 @@ The controller you use is up to preference. You see all kinds of controllers at 
 
 For controller mappings, here's the mapping that you use if you're on VC.
 
-![Gamecube mapping](../images/beginner/Gamecube_Controls.png)
+![Gamecube mapping](images/Gamecube_Controls.png)
 
 On emulator, you can either copy this mapping or tweak it to your liking. The advantage to copying this mapping is that if you ever decide to switch to VC in the future, it will make the transition much easier.
 
-If your emulator supports deadzones, I also highly recommend setting the deadzone to 0. This is because OoT already has a deadzone built into the game, and artificially adding another deadzone makes small movements much harder.
+### Controller Sensitivity
+
+Out of the box, controller sensitivity can often be really bad, so it's worth looking into it early to make your life a lot easier.
+
+I *highly* recommend getting the [Practice ROM](../intermediate/execution.md#practice-rom). You don't need to learn how to use it right now, but when you load it up, you'll notice at the bottom left you can see your analog stick values. Alternatively, when you generate seeds, you can turn on [input viewer](./first-seed.md#cosmetics) to see the stick values during your game.
+
+If your emulator supports deadzones, I recommend setting the deadzone to 0. This is because OoT already has a deadzone built into the game, and artificially adding another deadzone makes small movements much harder. Any value from -7 to 7 is the same as 0.
+
+If your emulator supports adjusting stick sensitivity, look at what the value is when you push the stick all the way. You want this to be around 75-80. OoT recognizes any value over 67 as the max value. A lot of emulator defaults can go as high as 127, which effectively makes half of the stick range the max value. This makes things like aiming in first person much harder than they should be.
+
+If you're on Wii VC, the default sensitivity is very bad, and you unfortunately need external hardware to fix this. The common solution is to use an ESS Adapter to fix the controller mapping.
 
 ## Tracker
 
 Most runners use trackers to help keep stay organized when playing a seed. Item trackers help keep track of what you've found and make it easy to see at a glance what you're still looking for and what dungeons you still need to complete. Map/check trackers help show you which regions still have checks available for you to complete to find your remaining items. See more in the [Trackers](https://wiki.ootrandomizer.com/index.php?title=Trackers) section in the wiki.
 
-My recommendation for beginners is the [Hashfrog Tracker](https://hashfrog-tracker.com/). If you enable check tracking, it's both an item tracker and check tracker in one, and as you fill in the items that you've found, it will update with what locations in the game are available for you to complete. As long as you are marking each check that you do and updating the tracker with items that you find, then the tracker can always tell you what you are able to do. This is a useful learning tool as it will show you when there are checks that are possible with your loadout that you didn't know were possible.
+### Hashfrog
 
-Probably the most popular alternative is the [Gossip Stone Tracker HD](https://github.com/HapaxL/GSTHD#readme), which is similar to Hashfrog but without the check tracking. Another option at the top level is [Soli's tracker](https://soilflux.github.io/tracker/), and while it's probably the most powerful tracker available, there is a learning curve for using it and is not friendly for beginners.
+My recommendation for beginners is the [Hashfrog Tracker](https://hashfrog-tracker.com/). If you enable check tracking, it's both an item tracker and check tracker in one, and as you fill in the items that you've found, it will update with what locations in the game are available for you to complete. It also supports resuming sessions, so if you need to stop playing and resume later, it will remember the state of your tracker when you come back.
+
+To set up check tracking, click on `Enable check tracking` and set the corresponding Generator Version and Settings String, which you can find on the seed page after you generate the seed. If you are using a preset from the generator, Hashfrog may also already have the same preset available in the dropdown.
+
+![Hashfrog Setup](./images/hashfrog_setup.png)
+
+### Alternatives
+
+Probably the most popular alternative is the [Gossip Stone Tracker HD](https://github.com/HapaxL/GSTHD#readme), which is similar to Hashfrog but without the check tracking. Another option at the top level is [Soli's tracker](https://soilflux.github.io/tracker/), and while it's probably the most powerful tracker available, there is a steep learning curve for using it and is not friendly for beginners.

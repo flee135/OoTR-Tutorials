@@ -72,11 +72,11 @@ nav:
       - Wasteland: regions/wasteland.md
       - Colossus: regions/colossus.md
 
-# About is shown as a header link (top right), not in the sidebar — see
-# overrides/partials/header.html. Listed here so --strict doesn't warn it's
-# missing from the nav.
+# Pages intentionally kept out of the sidebar. Listing them here documents that
+# the omission is deliberate and silences the "not included in nav" build notice.
 not_in_nav: |
   about.md
+  intermediate/atz-routing.md
 
 markdown_extensions:
   - toc:
