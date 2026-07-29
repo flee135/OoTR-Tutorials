@@ -1,5 +1,7 @@
 # Forest Temple
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=933" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - Upon entering, side hop three times to the right and dry roll, then aim your hookshot straight up to climb the vines. This is the most consistent way to aim the hook without spawning the wolfos. If you have longshot, then as soon as you enter you can longshot directly to the top.

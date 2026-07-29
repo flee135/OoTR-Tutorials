@@ -74,6 +74,15 @@ a[target="_blank"]:not(:has(img))::after {
   background-color: var(--md-default-bg-color);  /* punches a gap in the line */
 }
 
+/* YouTube embeds. */
+.md-typeset iframe {
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
 /* Site title at the top of the left sidebar */
 .md-nav--primary > .md-nav__title {
   font-size: 1.25rem;

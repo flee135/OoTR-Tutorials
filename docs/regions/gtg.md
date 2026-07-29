@@ -1,5 +1,7 @@
 # Gerudo Training Grounds
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=5345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - It's a good idea to start by going into the maze and peeking the chests to see how many keys you'll need. If you have song of time and a key already, you can open a door on your left to also peek the first chest in the climb, as well as the chest above the eye statues. This also gives you an easier time peeking the rest of the checks. The checks that you can see on the ground floor require 2 keys, 4 keys, 5 keys, and 7 keys respectively. Logically, you add 2 to each of those since the game assumes that in the worst case you also used two keys on the right side.

@@ -1,5 +1,7 @@
 # Ice Cavern
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=5001" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - It's often a good idea to equip two bottles to reduce the amount of back and forth you need to do between the blue fire sources, and also to have an extra blue fire after completing the dungeon to bring back to KZ.

@@ -1,5 +1,9 @@
 # Spirit Temple
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dt0GA5n_6M8?si=gT1XcRUXra8xR5zP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=3308" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - From colossus, if you stand outside spirit on the corner opposite of the silver gauntlets chest, you can c-up and try to see if you can see the chest. If you don't see a chest, it's small chest, so either unimportant or a key. Since it costs a key to reach this check anyways, this means you can always skip it and save a key to use elsewhere.
@@ -25,5 +29,9 @@
 - (Adult) You can push statues without holding onto it the whole time. Keep your stick neutral, hold A to grab the handle, then push up on the stick while letting go of A at the same time. Link will let go while the statue turns on its own.
     - For the first set of mirrors, you can use this to overlap the cutscene of opening a chest while another one falls, or while the door is opening. Or you can walk towards the door as the mirror is turning towards the sun that will unlock it.
     - For the mirrors at the top, you can turn the first mirror while walking towards the second mirror, turn the second mirror while walking back to the first mirror, then turn the first mirror while walking back to the entrance.
+
+- (Adult) If you are missing a fire source, you can get the map chest by pushing the child side armos to the top, backflipping onto it, and shooting an arrow through the torch.
+
+    You can get the sun block room by collecting the silver rupees and shooting arrows through the torch.
 
 ## Optimizations

@@ -1,5 +1,7 @@
 # Dodongo's Cavern
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=214" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 >**Note:** The tricks here assume you are adult, since beating the dungeon as adult is substantially faster than as child. Anything that is for child will explicitly say so.
 
 ## Important
@@ -13,6 +15,8 @@
 - You can jump straight to the platform leading to the bomb chest, which lets you skip a majority of the rooms on the top floor. If you have bombs, you can also ground jump to the chest.
 
 ## Good to Know
+
+- (Adult) If you are going through DC with chus and no bombs, you can kill KD with chus using ground jumps or backflips.
 
 - (Child) You can reach the lobby switch with a ground jump.
 

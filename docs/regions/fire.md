@@ -1,5 +1,7 @@
 # Fire Temple
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=1770" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - You may logically be required to use hovers to get to the boss door. Hoewever, this can be skipped by performing a jump while hugging the wall.

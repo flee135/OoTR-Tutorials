@@ -1,5 +1,7 @@
 # Bottom of the Well
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=4693" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - For the top left bombable chest, if it's big, it will poke through the debris, so you can skip it if you don't see anything. If you need to know if it's a key, you can roll peek from outside the coffin room.

@@ -1,5 +1,7 @@
 # Shadow Temple
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RL0myv4AmZU?si=5Ut_mp6DunTksyPW&amp;start=3844" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Important
 
 - For dead hand, you can stand just outside an arm's grab range, then jumpslash into into it. The hand will catch you midair and drop you immediately, which spawns dead hand but does not result in you getting stuck. For the rest of the fight:
@@ -16,7 +18,10 @@
 
 - To get onto the boat, you can jump off the ledge and onto the wheel of the boat, or you can hookshot to the top of the ladder. You should only pull the block if you want to open the shortcut.
 
-- After coming out of the back of shadow, when shooting down the bridge to the boss, you can stand by the edge, shoot the arrow, and when the arrow connects with a bomb, sidehop into the void. This skips the cutscene of the bridge falling. Do NOT do this until after you come out from the back of shadow, otherwise you will respawn back before the boat ride.
+- After coming out of the back of shadow, you have a few options for how to lower the bridge.
+    - When shooting the bomb flowers with arrows, you can stand by the edge, shoot the arrow, and when the arrow connects with a bomb, sidehop into the void. This skips the cutscene of the bridge falling. Do NOT do this until after you come out from the back of shadow, otherwise you will respawn back before the boat ride.
+    - If you have longshot and scarecrow song, you can stand on the edge of the debris and summon Pierre.
+    - If you have chus, you can send a chu to the other side to blow up the bomb flowers.
 
 ## Good to Know
 

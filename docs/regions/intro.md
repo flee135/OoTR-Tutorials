@@ -8,4 +8,4 @@ These articles are a breakdown of tips and tricks that are useful to know per re
 
 - **Optimizations:** Optional tricks that you can learn if you feel like it.
 
-For dungeons, it is assumed you've already watched the [dungeon routing video](../intermediate/execution.md#dungeons). Any tips mentioned here will build on top of those routes, but might sometimes emphasize important parts of the routes or highlight tricks you need to know.
+For dungeons, it is assumed you've already watched the [dungeon routing video](../intermediate/execution.md#dungeons). Each dungeon page will link the video at the top at the relevant timestamp. Any tips mentioned here will build on top of those routes, but might sometimes emphasize important parts of the routes or highlight tricks you need to know.
