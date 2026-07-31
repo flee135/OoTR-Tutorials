@@ -1,26 +1,14 @@
 # Tournament Settings
 
-I recommend starting to play using a tournament preset. Don't get discouraged; despite being for tournaments, the settings aren't actually more difficult than the settings from the beginner tutorials. The Scrubs settings are a good starting point, as the Scrubs tournament is catered specifically to newer players looking to improve at the game. The SpeedGaming Live (SGL) settings are also good, since they're aimed to make for shorter seeds than most other settings. You can find all the presets on the first page of the generator.
-
-Let's go over some differences that you find in nearly all tournament settings that we haven't seen before.
-
-## Path Hints
-
-Most tournaments nowadays will use path hints instead of way of the hero hints. You can think of paths as more informative WoTHs. For example, instead of a hint reading Kokiri Forest is way of the hero, it might read Kokiri Forest is path to King Dodongo. This means that there is an item in Kokiri Forest that is logically required to beat King Dodongo.
-
-If you've done a few seeds, you'll know that the only item required to beat DC is bombs (bombchus are usually not considered in logic), so you might think this hint just means that you'll find bombs in KF. It's possible, however, that you clear all of KF and you only find Ruto's Letter there. This means that Ruto's Letter is required to beat DC, and therefore must lock all of your bomb bags. If you are looking for bombs, it's a good idea to check locations that logically require Ruto's Letter, such as Zora's Fountain, Ice Cavern, or Jabu.
-
-While doing these seeds, practice tracking what your paths are, what you find in those path locations, and figuring out how they eventually resolve. This is not an easy skill, so don't be discouraged if you run into seeds where you can't figure out the logic in the middle of the seed.
-
-Early on, you can treat path hints as just locations that you should prioritize. As you improve at reading these path chains, though, you can read deeper into these hints and be able to narrow down where certain items can be.
+If you haven't already, I recommend starting to play using a tournament preset. If you followed the beginner tutorials, you are already playing the Mentor Tournament 2026 settings, possibly with some settings tweaked to make it easier. If you did add some modifications, now would be a good time to try the default settings. [Next steps](../beginner/next-steps.md#more-playthroughs) actually talks about the impact of adding back the settings you may have changed and how to approach each of these.
 
 ## New Logic Tricks
 
-Under the Detailed Logic tab in the generator, there are a lot of new tricks enabled. These are things the game expects you to be able to do, and places items accordingly assuming you can do each one.
+The hardest thing to get used to is the logic tricks that are enabled in nearly all tournament settings. After loading the settings, you can look at the Detailed Logic tab in the generator to see all the enabled tricks. These are things the game expects you to be able to do, and places items accordingly assuming you can do each one.
 
-Hover over each one in the generator to see what they entail. Many are self explanatory, like having fewer thing require Goron or Zora tunics, or not needing lens of truth for many things. We'll go over the less obvious ones here.
+For example, `Shadow Temple Invisible Moving Platform without Lens of Truth` means that the game will not expect you to have Lens of Truth before being able to get past the invisible platforms in Shadow Temple, and it's possible that Lens of Truth is found on Bongo Bongo. If this happens, you are forced to cross these invisible gaps blind.
 
-I recommend practicing these using the [practice ROM](./execution.md#practice-rom).
+Hover over each one in the generator to see what they entail. Many are self explanatory, like having fewer thing require Goron or Zora tunics, or not needing Lens of Truth for many things. We'll go over the other tricks here. I recommend practicing these using the [practice ROM](./execution.md#practice-rom) with save states.
 
 - Man on Roof without Hookshot
 - DC Spike Trap Room without Hovers
