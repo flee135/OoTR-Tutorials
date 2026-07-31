@@ -53,6 +53,7 @@ nav:
       - Execution: intermediate/execution.md
       - Routing: intermediate/routing.md
       - Hints: intermediate/hints.md
+      - Racing: intermediate/racing.md
   - Regions:
       - Intro: regions/intro.md
       - Deku Tree: regions/deku.md

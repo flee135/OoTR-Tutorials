@@ -8,7 +8,7 @@ The intermediate tutorials go into the following:
 - [Execution](./execution.md)
 - [Routing](./routing.md)
 - [Hints](./hints.md)
-- Racing
+- [Racing](./racing.md)
 
 >**Note:** If you've been around in the randomizer community, you've probably heard about logic as another core aspect of rando and wonder why it's not covered here. The reason is that I believe the return on investment in execution and routing is much higher.
 >
