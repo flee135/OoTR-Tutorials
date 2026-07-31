@@ -20,6 +20,22 @@ theme:
 
 plugins:
   - search
+  # Click an image to open it full size in a lightbox overlay.
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: none
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: false
+      # Every image is clickable by default. To opt one out, tag it with
+      # attr_list: `![alt](foo.png){: .no-lightbox }`.
+      skip_classes:
+        - no-lightbox
+      auto_caption: false
+      caption_position: bottom
   - git-revision-date-localized:
       type: date
 
@@ -81,6 +97,9 @@ not_in_nav: |
 markdown_extensions:
   - toc:
       permalink: true
+  # Lets a Markdown element carry classes, e.g. the glightbox `.no-lightbox`
+  # opt-out above.
+  - attr_list
   - admonition
   - pymdownx.superfences
   - pymdownx.details

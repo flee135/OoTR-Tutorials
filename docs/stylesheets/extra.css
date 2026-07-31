@@ -112,10 +112,29 @@ a[target="_blank"]:not(:has(img))::after {
 /* Standalone images, centered to match the iframes above.
    `![alt](src)` on its own line becomes <p><img></p>, so :only-child picks out
    images that are the whole paragraph and leaves images used inline in a
-   sentence (badges, icons) alone. */
-.md-typeset p > img:only-child {
+   sentence (badges, icons) alone. The glightbox plugin wraps each image in an
+   <a class="glightbox">, so the same rule has to reach through that anchor. */
+.md-typeset p > img:only-child,
+.md-typeset p > a.glightbox:only-child {
   display: block;
   margin: 1em auto;
+}
+.md-typeset p > a.glightbox:only-child > img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Hint that images open full size. The image stays put on hover; only the
+   cursor and a soft shadow signal that it's clickable. */
+.md-typeset a.glightbox {
+  cursor: zoom-in;
+}
+.md-typeset a.glightbox > img {
+  border-radius: 2px;
+  transition: box-shadow 125ms;
+}
+.md-typeset a.glightbox:hover > img {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
 }
 
 /* Site title at the top of the left sidebar */
