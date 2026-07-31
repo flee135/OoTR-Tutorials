@@ -63,20 +63,19 @@ Some clarifications on the trick:
 
 - The glitch occurs when the stick hits a fire source while it is being put away. It doesn't matter whether the stick was lit or not prior to it being put away.
 - An easy way to get the positioning is to directly face a torch and then turn 90 degrees to the right. You can then just pull out a stick and immediately put it away.
-- After getting flame storage, moving too far away from the torch and causing it to unload will cause the trick to fail. You can however move out of range and then back in range.
+- After getting flame storage, moving too far away from the torch and causing it to unload will cause the trick to fail. You can, however, move out of range and then back in range before pulling out the stick.
 
 ## Useful Out of Logic Tricks
 
 There are a lot of additional tricks that you can learn, and these are things that you can continue to keep adding to your arsenal over time.
 
-Something to note when going for these tricks is that the game places items assuming you cannot do them, and performing them can sometimes backfire as a result. For example, let's say Jabu is a stone dungeon, and Ruto's Letter was placed in Ganon's Castle. This means it was impossible to move KZ until after you've already collected all six medallions, and so nothing behind KZ is actually useful. This means that if you decided during the seed to do KZ skip to go to ice, all the time you spent there was wasted. Worse yet, if you find a song there like storms, you might be tempted to go even further down the rabbit hole and go into Well, which is also locked behind Ruto's Letter now and cannot have anything.
+Something to note when going for these tricks is that the game places items assuming you cannot do them, and performing them can sometimes backfire as a result. For example, let's say Jabu is a stone dungeon, and Ruto's Letter was placed in Ganon's Castle. This means it was impossible to move KZ until after you've already collected all six medallions, and so nothing behind KZ is actually useful (aside from maybe light arrows). This means that if you decided during the seed to do KZ skip to go to ice, all the time you spent there was wasted. Worse yet, if you find a song there like storms, you might be tempted to go even further down the rabbit hole and go into Well, which is also locked behind Ruto's Letter now and cannot have anything.
 
-When starting out, I recommend learning the following tricks. They are ordered with the most impactful tricks first.
+When starting out, I recommend learning the following tricks.
 
-- Mido skip - Allows you to get to forest temple without Minuet or Saria's. Can sometimes prevent AD if for example Minuet is in adult SFM and Saria's is on OoT.
-- Wasteland forward/backwards - Allows you to cross the wasteland without magic and also without hovers or longshot to cross the sand pit. Backwards allows you to enter GTG with just requiem, skipping longshot or epona's.
-- Domain without ZL - Possible as both child and adult. Can get to jabu or ice without ZL.
-- KZ Skip - Get to ice without having to turn in letter. Even if you do have letter, it saves you the trip from going to child, turning it in, then going back to adult.
-- Hookless GTG - Complete all checks in GTG without a hookshot. Instead, requires bombs to set up ground jumps or hovers.
-
-- River freestandings - Adult can get all the non-frog checks in river with no items.
+- [Mido skip](https://youtu.be/ABiaC7NwBfg?si=GrwBcDT2BR47MM2Q) - Allows you to get to forest temple without Minuet or Saria's, and also nets you a song.
+- Wasteland forward/backwards - You can cross the [quicksand with no items](https://youtu.be/SDHyufHrqR0), and you can navigate wasteland [without lens of truth](https://youtu.be/b_Bef-MKfOc). This lets you skip magic/lens/hovers/longshot. Going backwards allows you to enter Fortress and GTG with just requiem, skipping longshot or Epona's.
+- Enter domain without ZL - Possible as both [child](https://www.youtube.com/watch?v=o-Q29_V70II) and [adult](https://www.youtube.com/watch?v=B0kbnE3AmYc). This lets you skip the ZL requirement.
+- [KZ Skip](https://youtu.be/Z5Maflrhits) - Get to ice without having to turn in letter. Even if you do have letter, it saves you the trip from going to child, turning it in, then going back to adult. Downside is you cannot get the unfreezing KZ check right after finishing ice and need to walk all the way back.
+- Hookless GTG - Complete almost all of GTG without a hookshot. This requires learning the [silver rupees and flame wall skip](https://www.youtube.com/watch?v=pS3Rq6s0WIo). For the following room, you need to ground jump to the alcove above the fake door, or backflip onto the chest and hover to the alcove (works regardless of the chest size).
+- River freestandings - Adult can get the [upper](https://www.youtube.com/watch?v=ilZf39r1s1E) and [lower](https://youtu.be/K5JRMAi-cT8) freestandings in river with no items.
