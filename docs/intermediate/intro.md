@@ -10,8 +10,6 @@ The intermediate tutorials go into the following:
 - Hints
 - Racing
 
-You can read these in order, but execution and routing are interchangeable.
-
 >**Note:** If you've been around the randomizer community, you've probably heard about logic as another core aspect of rando and wonder why it's not covered here. The reason is that I believe the return on investment in execution and routing is much higher.
 >
 >That's not to say it's not important though. Logic is touched on briefly in the Hints section, and if you want, I encourage you be aware of and think about logic as you play through seeds.

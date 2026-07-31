@@ -12,6 +12,14 @@ The following video shows how to set up the practice ROM and the features that I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_7AYN82njc?si=X3UkyZY6UmcupMuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Intermediate Techniques
+
+Now is a good time to learn some intermediate movement and techniques. These are things that you'll see a lot in setups for various tricks, so you'll be using these a lot as you learn more.
+
+At the end, I go into quickdraws, which is a technique that is optional for now, but good to know that it exists.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PPtNkS59r1I?si=JNdx7W5LcDuLDV2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## General Optimizations
 
 The [optimization guide](https://docs.google.com/document/d/1wLRFTNduDhYeASucN_3kc2Vzi6zpDicjREEWbIWgKxs/edit?tab=t.0) has more than you ever need to know about small optimizations in OoT. The guide is meant for speedrunning the vanilla game, so not everything in here is relevant for rando. Other things are incredibly small optimizations that you really don't need to learn until you are at the highest level. I'll highlight what I think is the most important stuff when starting.
