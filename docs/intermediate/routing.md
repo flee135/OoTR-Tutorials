@@ -133,7 +133,38 @@ This is the point in the game where you want to heavily prioritize progression. 
 
 If you have any hints towards any dungeons that you are still missing items for, it can often be a good idea to prioritize going to those locations. These are not as strong as progression locations because the hints may only lead to items that are only logically required to beat the seed, not hard required. In the absence of any other information though, chasing path hints is often a good play.
 
-There are some exceptions where you might want to put off path locations. This usually stems from a dense location being hinted path that you cannot clear a lot of. For example, you have Epona's early, and GTG is hinted path, but you don't have any of bow, hook, or bombs. You're only guaranteed to be able to do one check in the dungeon out of the many, and you're almost certainly better off doing other dense locations over rushing this path location.
+There are some exceptions where you might want to put off path locations. This usually stems from a dense location being hinted path that you cannot clear a lot of. For example, you have Epona's early, and GTG is hinted path, but you don't have any of bow, hook, or bombs. You're only guaranteed to be able to do one check in the dungeon out of the many, and you're almost certainly better off doing other dense locations or gathering more songs over rushing this path location.
+
+### Songs
+
+You should aim to collect all accessible songs around this point. Here's a list of all the song checks, grouped by roughly when you get them:
+
+---
+
+- Song from Impa - This is free
+- Kak Windmill - Early game
+- Lon Lon Ranch - Early game
+- Child SFM - Early game
+
+---
+
+- Crater - Fast with Bolero. Otherwise requires hook/hovers.
+- Adult SFM - Fast with Minuet. Otherwise out of the way.
+- Colossus - Fast with Requiem. Otherwise very out of the way with lots of item requirements.
+- Graveyard - Requires ZL.
+- Ice - Requires ZL or Hovers, plus a bottle or BFAs.
+- Temple of Time - Requires forest med.
+
+---
+
+- Burning Kak - Requires forest, fire, water meds.
+- OoT - Requires three stones. In the Mentor Tournament 2026, this is given for free.
+
+---
+
+If you find their respective warp songs early, then crater, adult SFM, and colossus should be considered early game songs. Otherwise, the checks in the middle depend on how early you get the required items to reach the checks. Burning Kak and OoT are typically late game songs, and in most settings will always be hinted.
+
+As you collect songs and get hints for songs, you can start to narrow down what the remaining song checks must have. Take this into consideration as well when you decide between pushing for songs vs pushing for density.
 
 ### Density
 
