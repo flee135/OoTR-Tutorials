@@ -4,11 +4,13 @@
 
 ## Important
 
-- You may logically be required to use hovers to get to the boss door. Hoewever, this can be skipped by performing a jump while hugging the wall.
+- You may logically be required to use hovers to get to the boss door. Hoewever, this can be skipped by performing a [jump while hugging the wall](https://www.youtube.com/watch?v=OtNH5K7Jgus). An easy method is to get into the corner in the lava, climb the ledge, do a dry roll, then hold down.
 
-- You can skip the push block in a variety of ways. The easiest if you have bombs is to use a ground jump. There is also a way to line up a jump off the side and then curve your jump back to grab the block.
+- You can skip the push block in a variety of ways. The easiest if you have bombs is to use a ground jump. You can also line up a jump off the side and then curve your jump back to grab the block.
 
 - In the flame wall maze, you can roll or backwalk past some of the walls before they appear. This lets you skip the maze as well as save a key.
+
+- You can skip hitting the switch to remove the big fire wall by taking damage and backflipping through.
 
 - Flare dancers take the most damage from master sword jumpslashes, and it's worth unequipping Biggoron's sword for these fights.
 
@@ -20,6 +22,6 @@
 
 - In the big lava room, if you have Goron tunic, it's often a good idea to just walk across the lava to get from one room to the other. If you have double defense and a decent amount of health, this can be a good option too.
 
-- If it's not free scarecrow and you don't have scarecrow set, but you do have longshot, there is a trick called pixelshot to go straight to the elevator platform without calling scarecrow.
+- If you don't have scarecrow song / free scarecrow, but you do have longshot, there is a trick called [pixelshot](https://www.youtube.com/watch?v=LgSXiWniwuc) to go straight to the elevator platform without calling scarecrow.
 
 ## Optimizations

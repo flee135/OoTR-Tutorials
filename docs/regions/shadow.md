@@ -21,9 +21,11 @@
 - After coming out of the back of shadow, you have a few options for how to lower the bridge.
     - When shooting the bomb flowers with arrows, you can stand by the edge, shoot the arrow, and when the arrow connects with a bomb, sidehop into the void. This skips the cutscene of the bridge falling. Do NOT do this until after you come out from the back of shadow, otherwise you will respawn back before the boat ride.
     - If you have longshot and scarecrow song, you can stand on the edge of the debris and summon Pierre.
-    - If you have chus, you can send a chu to the other side to blow up the bomb flowers.
+    - If you have chus, you can send a [chu](https://youtu.be/LLYRGdl6Wnc) to the other side to blow up the bomb flowers.
 
 ## Good to Know
+
+- You can get into shadow with only fire arrows, a trick known as [Fire Arrow Entry](https://www.youtube.com/watch?v=im3IXe__8ww) (FAE).
 
 - For the two gibdos, you can turn left/right, sidehop to the center, then jumpslash. Then turn around and jumpslash the other gibdo.
 
@@ -31,6 +33,6 @@
 
 - Instead of waiting for the platform that moves up and falls down, you can jump straight down to the right. You want to aim further left than you think.
 
-- You can get through the fan room without irons or getting stuck by the fans using specific movement.
+- You can get through the [fan room](https://www.youtube.com/watch?v=RjcAGRv9YsU) without irons or getting stuck by the fans using specific movement.
 
 ## Optimizations

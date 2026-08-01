@@ -6,11 +6,11 @@
 
 ## Important
 
-- From colossus, if you stand outside spirit on the corner opposite of the silver gauntlets chest, you can c-up and try to see if you can see the chest. If you don't see a chest, it's small chest, so either unimportant or a key. Since it costs a key to reach this check anyways, this means you can always skip it and save a key to use elsewhere.
+- From colossus, if you stand outside spirit on the corner opposite of the silver gauntlets chest, you can c-up and try to see if you can [see the chest](images/spirit_rh_peek.png). If you don't see a chest, it's small chest, so either unimportant or a key. Since it costs a key to reach this check anyways, this means you can always skip it and save a key to use elsewhere.
 
 - (Child) When starting the child loop, you can bring a lit stick to the room on the right to light the two torches. This lets you peek the chest at the end so you know whether you need to go to the end or not.
 
-- (Child) For the bridge, other than using slingshot or boomerang, you can also use a chu. Stand on the opposite wall at the crack in the wall, and drop the chu on the second red flash.
+- (Child) For the bridge, other than using slingshot or boomerang, you can also [use a chu](https://www.youtube.com/watch?v=jxruBiW_FLA). Stand on the opposite wall at the crack in the wall, and drop the chu on the second red flash.
 
 - (Child) For the silver rupees at the top, you can get flame storage in the lobby, pull out the stick then open the door to walk through the corridor. If you go fast enough, you can light the torch directly to your left. This saves you from having to collect the silver rupees just to light the torch.
 

@@ -16,4 +16,4 @@
 
 - When leaving the carpenter jail cell, you can play Epona's immediately to spawn her on the path to HBA. Otherwise you risk spawning her at the bottom of fortress.
 
-- After HBA, it is faster to backwalk to GTG than to take Epona. From HBA, getting to wasteland is roughly the same amount of time on foot or on horseback.
+- After HBA, it is faster to backwalk to GTG than to take Epona. After HBA, getting to wasteland is roughly the same amount of time on foot or on horseback.

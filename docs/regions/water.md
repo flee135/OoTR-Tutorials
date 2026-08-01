@@ -8,9 +8,9 @@
 
 - If you hold target and a direction on the analog stick while equipping irons, you can continue to swim after equipping irons. You need to always be holding target and a direction, otherwise Link will begin to sink straight down.
 
-- After lowering the water level, you can perform a trick called a gainer to jump to the cracked wall.
+- After lowering the water level, you can perform a trick called a [gainer](https://www.youtube.com/watch?v=dszbnOhodwU) to jump to the cracked wall. If you have hovers, you can walk over the gap and sidehop.
 
-- You can get from the second floor back to the top floor with a well-aimed hookshot, followed by either a jumpslash or grabbing the ledge.
+- You can get from the second floor back to the top floor with a [well-aimed hookshot](https://www.youtube.com/watch?v=ejlkXRIeafI), followed by either a jumpslash or grabbing the ledge.
 
 - You can roll peek to see the chest behind the push block.
 
@@ -22,17 +22,17 @@
 
 - With the raising and lowering dragon statue room, you can hover across the platforms without changing the statue heights. With just a hook, you can make it to the end only hitting the switch once.
 
-- At the end of river, you can snipe the switch from the top, then sidehop into the room where the gate opened.
+- At the end of river, you can snipe the switch from the top, and after the cutscene, turn right, then sidehop left into the room where the gate opened.
 
-- For water BK, you can hover straight to the window, dodging the rolling boulder. Without hovers, you can do a series of sidehops to get the proper position and angle to jump.
+- For water BK, you can hover straight to the window, dodging the rolling boulder. Without hovers, you can do a [series of sidehops](https://www.youtube.com/watch?v=Q8spI8GOv94) to get the proper position and angle to jump.
 
-- You can reach the boss door without longshot by using a trick called Water Hop, bypassing the requirement for longshot in the dungeon entirely.
+- You can reach the boss door without longshot by using a trick called [Water Hop](https://www.youtube.com/watch?v=x8k3XJHiMOs), bypassing the requirement for longshot in the dungeon entirely. There are many variables that determine whether or not the trick works, and you can learn how to make this trick consistent [here](https://www.youtube.com/watch?v=zOuIDUulFYo).
 
 ## Good to Know
 
-- You can get the push block check with just a bow.
+- You can get the push block check with [just a bow](https://www.youtube.com/watch?v=csfTPBZS2BE).
 
-- You can get a quick kill on Morpha by hooking it immediately upon entering the room and trapping it in the doorframe.
+- You can get a [quick kill](https://www.youtube.com/watch?v=m0RAHiYUBNI) on Morpha by hooking it immediately upon entering the room and trapping it in the doorframe.
 
 ## Optimizations
 

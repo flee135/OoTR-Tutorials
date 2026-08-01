@@ -2,13 +2,13 @@
 
 ## Important
 
-- (Adult) You can get lab dive by using irons to sink to the bottom, hooking the crate, and unequipping irons while getting pulled by the hookshot. After the jingle, you can go ahead and re-equip irons to collect the skulltula and still be able to get the lab dive check.
+- (Adult) You can get lab dive by [using irons](https://www.youtube.com/watch?v=7ihH-wBP0PM) to sink to the bottom, hooking the crate, and unequipping irons while the hook is shooting. After the jingle, you can go ahead and re-equip irons to collect the skulltula and still be able to get the lab dive check.
 
 - (Adult) There are scarecrows at the fishing game, the shoot the sun platform, and on top of the lab. With hook, you can get fishing and lab freestanding without planting a bean, and with longshot you can get shoot the sun without clearing Water Temple (though if it's progression you still should since clearing it puts you in the perfect position and time of day to do shoot the sun).
 
 ## Good to Know
 
-- (Child) You can kill and collect the lab skulltula with well aimed jumpslashes.
+- (Child) You can kill and collect the lab skulltula with well aimed [jumpslashes](https://www.youtube.com/watch?v=Y_RVyjhmLdA).
 
 ## Optimizations
 

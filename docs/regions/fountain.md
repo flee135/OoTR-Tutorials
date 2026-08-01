@@ -2,6 +2,8 @@
 
 ## Important
 
+- (Adult) You can peek the freestanding at the bottom of fountain with C-up while you're swimming, or by diving to get a closer look.
+
 ## Good to Know
 
 - (Adult) You can climb onto the icebergs that tip over by equipping hovers when climbing, or by mashing jumpslash during the climb animation.

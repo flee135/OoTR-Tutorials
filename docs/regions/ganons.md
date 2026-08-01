@@ -2,7 +2,7 @@
 
 ## Important
 
-- The first chest in shadow trial can be reached by spawning song of time blocks.
+- If you don't have hook, the first chest in shadow trial can be reached by spawning song of time blocks.
 
 - You can cross shadow trial in several ways.
     - With longshot, you can longshot to the torch, then stand on the very edge to longshot to the like-like. You can then hover to the next platform then to the switch.

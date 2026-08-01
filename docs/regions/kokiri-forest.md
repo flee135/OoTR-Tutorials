@@ -2,7 +2,7 @@
 
 ## Important
 
-- (Child) From the Kokiri sword chest, you can play sun's song to warp back out to the last entrance you came from. This is faster than walking back out of the boulder maze.
+- (Child) From the Kokiri sword chest, you can play sun's song to warp back out to the last entrance you came from. This is much faster than walking back out of the boulder maze.
 
 ## Good to Know
 

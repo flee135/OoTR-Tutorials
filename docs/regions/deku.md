@@ -8,7 +8,9 @@
 
 - In the slingshot room, if you climb the vines on the right and then turn left, you can see a big chest at the top. If you don't see anything, it's a small chest.
 
-- Deku B1 skip is a tough, but important trick to learn in order to skip the slingshot requirement in basement, as well as skipping a lot of unrequired rooms.
+- You can climb past walltulas without killing them. If they notice you, you can stop moving, and they will go back to ignoring you.
+
+- Deku B1 skip is important for skipping the slingshot requirement in basement, as well as skipping a lot of unrequired rooms.
 
 ## Good to Know
 
