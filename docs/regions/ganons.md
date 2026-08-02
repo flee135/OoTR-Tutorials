@@ -10,6 +10,11 @@
     - If you have longshot and dins, but not hovers, you can longshot the torch to light it with dins. You have enough time to cross the platforms and make it to where the chest spawns. It is possible to then jump to the switch from the invisible path.
 
 - In spirit trial, you are expected to hit the switch with a bombchu, but you can also use bow extension to shoot the switch through the collision.
+    - Walk into the gate and pull out bow.
+    - Hold up for the duration of the trick.
+    - Press A to cancel first person, and press bow on the next frame.
+
+    If done correctly, your hand should now be clipping through the gate, and you can shoot the switch.
 
 ## Good to Know
 
