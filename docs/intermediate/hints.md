@@ -3,8 +3,9 @@
 You can learn about hints on the [OoTR Wiki](https://wiki.ootrandomizer.com/index.php?title=Hints). This has a lot of information, so we'll narrow it down here. Let's look at the hint distribution for the Mentor Tournament 2026:
 
 - 5x Goal Hints (or Path Hints)
-- ZL is removed from being hinted path
+    - ZL is removed from being hinted path
 - 2x Foolish hints
+- 3x Important Count hints
 - 4x Always hints: Biggoron, Frogs 2, Burning Kak Song, Deku Theatre Skull Mask
 - 2x Dual Hint
 - 2x Sometimes
@@ -50,6 +51,12 @@ Foolish hints tell you that a region does not contain any items that are require
 You might still find big chests in these areas. Items like Double Defense or Biggoron's Sword do not lock any checks, and therefore can be placed in foolish locations.
 
 It is actually possible to find major items in foolish locations. This happens with progressive items that are locked by other copies of the same item. For example, a bow on Phantom Ganon is considered a foolish bow because it required a bow in the first place. If nothing else in Forest is required, Forest can be labeled as a foolish location.
+
+## Important Count Hints
+
+Important count hints tell you how many major items are in a region. Major items are anything you would see in big chests (other than chus, shields, and capacity upgrades if you turn those settings). It does, however, include some items that don't unlock any progression, like BGS, double defense, stone of agony, and Nayru's.
+
+Don't forget that songs are also major items. For example, if you see Kakariko Village has 2 major items, you can figure out exactly what they are; it must be the song from windmill and the song from burning Kak. This means you don't need to do any other checks in Kak.
 
 ## Always Hints
 
