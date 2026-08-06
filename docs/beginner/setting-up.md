@@ -40,6 +40,8 @@ My recommendation for beginners is the [Hashfrog Tracker](https://hashfrog-track
 
 To set up check tracking, click on `Enable check tracking` and set the corresponding Generator Version and Settings String, which you can find on the seed page after you generate the seed. If you are using a preset from the generator, Hashfrog may also already have the same preset available in the dropdown.
 
+>Note: If you are following this tutorial for your first seed, you can use the Mentor 2026 preset. You also want to look at Layout Configuration and use the HashFrog Mentor preset.
+
 ![Hashfrog Setup](./images/hashfrog_setup.png)
 
 ### Alternatives
