@@ -54,6 +54,9 @@ nav:
       - Routing: intermediate/routing.md
       - Hints: intermediate/hints.md
       - Racing: intermediate/racing.md
+  - Advanced:
+      - Intro: advanced/intro.md
+      - General Advice: advanced/general.md
   - Regions:
       - Intro: regions/intro.md
       - Deku Tree: regions/deku.md
