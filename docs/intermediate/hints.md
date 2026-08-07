@@ -16,9 +16,7 @@ As you know, gossip stones are where you read the hints. There are 40 total in t
 
 There will be two copies of each hint, so you may sometimes read duplicate hints. In these settings, there are 5 Path Hints, which means that 10 gossip stones out of the 40 will contain path hints.
 
-It's worth noting that if you read three copies of the same hint, it must mean that there are two separate, but identical hints. For example, if you find two hints that both read "Market is path to Barinade", you've likely just found the duplicate of the same hint. However, if you stumble upon another hint that also reads the same thing, then you know that another path hint must also read "Market is path to Barinade". Two distinct hints cannot point to the same item, so this means that in Market, you will find two distinct items that are both required to beat Barinade.
-
-This applies across hint types too. Let's say you find a hint that says Biggoron has your mirror shield. Then you find another hint that "Trail is path to Twinrova". This hint cannot refer to the mirror shield, because two separate hints cannot point to the same item, so this tells you that there is another item in Trail that you need in order to beat Twinrova. It *can* be Claim Check, which eventually resolves to getting the mirror shield, but this is fine because the Biggoron hint and the Path hint pointed to distinct items, even though they both resolve at the same point.
+It's worth noting that if you read three copies of the same hint, it must mean that there are two separate, but identical hints. For example, if you find two hints that both read "Market is path to Barinade", you've likely just found the duplicate of the same hint. However, if you stumble upon another hint that also reads the same thing, then you know that another path hint must also read "Market is path to Barinade". Two distinct hints cannot point to the same item (see [One Hint per Check](#one-hint-per-check)), so this means that in Market, you will find two distinct items that are both required to beat Barinade.
 
 ## Path Hints
 
@@ -32,11 +30,19 @@ You may also know that there are three bomb bags in every seed. So with the "Kok
 
 > **Note:** This can happen with any progressive item, including bombs, bows, hookshot, strength, magic, scale, wallet.
 
+If it helps, you can instead think of path items as items such that if they were removed, the boss would be unbeatable.
+
 ---
 
 These concepts take time to fully grasp, so don't feel discouraged if you don't get it right away. While doing these seeds, practice tracking what your paths are, what you find in those path locations, and figuring out how they eventually resolve. It can be hard to figure these out while also playing the game, so it can also be useful after the seed to open the spoiler log and figure out what the path items were and why.
 
 While you're still getting the hang of path hints, you can treat path hints simply as locations that you should prioritize. As you improve at reading these path chains, though, you can read deeper into these hints and be able to narrow down where certain items can be.
+
+## Path of the Hero
+
+You may occasionally run into Path of the Hero hints. These point to an item that wasn't required for getting any medallions, but are required to beat the game. These can only refer to items needed to shoot light arrows, i.e. bow, magic, and light arrows themselves. This hint cannot directly point to light arrows (see [One Hint per Check](#one-hint-per-check)), but can be anything that locks the light arrows.
+
+> Path of the Hero hints also expose a concept known as Path Priority, which will not be covered here. You can read more about it in the advanced tutorials.
 
 ## Zelda's Lullaby
 
@@ -69,3 +75,17 @@ Another common always hint is the Ocarina of Time song, but it is removed in the
 The rest of the hints are randomly selected from a pool of hints. These include other checks that are out of the way or lengthy to do. The pool of hints is always fixed per tournament, but you won't know exactly which ones you will get until you play the seed.
 
 These also include dual hints, which hint two related checks on one hint stone. Examples include the two rewards from bombchu bowling, or the two early checks you can get as child in Spirit Temple.
+
+## One Hint per Check
+
+Something that's not obvious but is very important is that each check can only be pointed to by a hint once. This applies across all kinds of hints, including paths, always, sometimes, and even hints that aren't found on gossip stones.
+
+**Example 1**<br>
+Let's say you find a hint that says Biggoron has your mirror shield. Then you find another hint that "Trail is path to Twinrova". This hint cannot refer to the mirror shield, because two separate hints cannot point to the same item, so this tells you that there is another item in Trail that you need in order to beat Twinrova. It *can* be Claim Check, which eventually resolves to getting the mirror shield, but this is fine because the Biggoron hint and the Path hint pointed to distinct items, even though they both resolve at the same point.
+
+**Example 2**<br>
+You find the hint "Kakariko is path to Jabu", and when you enter the skulltula house and get the skulltula hints, you find that 20 skulls gets you Ruto's Letter. Even though you didn't get the hint from a gossip stone, this still counts as a check that's always hinted, so the Kak path cannot be referring to the letter. There must be something else in Kak that is required to beat Jabu.
+
+Because of this rule, it's good to know what your always hints are. If you find paths for locations that contain an always hint, you can rule out those always hint checks, such as Biggoron, Frogs 2, Burning Kak, and Skull Mask, even if you don't have those hints yet, just because you know a hint for those must exist somewhere.
+
+The light arrows hint that you get from Ganondorf also counts as an always hint. This is relevant if you find a Path of the Hero hint. The path item cannot point to light arrows directly, but could be any item that leads to it.
