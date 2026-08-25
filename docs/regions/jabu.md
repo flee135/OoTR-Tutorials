@@ -15,6 +15,8 @@
 
 - The final skulltula can be killed by walking up the sloped floor next to it and jumpslashing. From there, you can throw the boomerang through the wall to collect the token.
 
+- Before the boss, you can [skip climbing the wall](https://youtu.be/AO3DVRzPhHw) to hit the switch by aiming the boomerang from the ground.
+
 ## Good to Know
 
 - When doing the first tentacle, if you know you don't need the chest, whether you're in go mode or if jabu is foolish, you can open the door to exit after killing the tentacle and before the chest spawns. This skips the chest spawning animation.

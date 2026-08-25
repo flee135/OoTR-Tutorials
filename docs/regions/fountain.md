@@ -2,7 +2,7 @@
 
 ## Important
 
-- (Adult) You can peek the freestanding at the bottom of fountain with C-up while you're swimming, or by diving to get a closer look.
+- (Adult) You can [peek the freestanding](https://www.youtube.com/watch?v=ZpD1-NH7QNA) at the bottom of fountain with C-up while you're swimming, or by diving to get a closer look.
 
 ## Good to Know
 

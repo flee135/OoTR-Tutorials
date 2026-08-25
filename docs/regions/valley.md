@@ -10,6 +10,8 @@
 
 ## Good to Know
 
+- (Adult) You can cross the broken bridge with just a hookshot using [hookshot extension](https://www.youtube.com/watch?v=RMqzj3XLqqg).
+
 ## Optimizations
 
 - When doing a deathwarp with bombs, you can pull ocarina when you get hit, and then repeatedly put away and pull out ocarina to get hit multiple times with the same bomb.

@@ -8,7 +8,7 @@
 
 - If the middle chest is big, you can use it to jump to the leftmost chest. Alternatively, with hovers, you can [hover](https://www.youtube.com/watch?v=xWC4xPIy6oU) from on top of the crate and then backflip at the last moment to clear the boulders.
 
-- (Child) You can stop the spinning pot [with a chu](https://www.youtube.com/watch?v=vhrgm1XANOc).
+- (Child) You can stop the spinning pot [with a chu or strength](https://youtu.be/zvJ7vjmgaj4).
 
 - Coming from Lost Woods, you can open the shortcut with [just a bow](https://www.youtube.com/watch?v=tK8N_JnY7wM).
 

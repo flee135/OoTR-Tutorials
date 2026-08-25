@@ -24,4 +24,6 @@
 
 - If you don't have scarecrow song / free scarecrow, but you do have longshot, there is a trick called [pixelshot](https://www.youtube.com/watch?v=LgSXiWniwuc) to go straight to the elevator platform without calling scarecrow.
 
+- You can get to the top of the boulder maze with a [hover ground jump](https://youtu.be/2cZby3U07Ac). If the chest is big, you can just hover without a ground jump.
+
 ## Optimizations
